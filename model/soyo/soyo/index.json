@@ -49,24 +49,6 @@
         "interruptable": true
       },
       {
-        "file": "mtn/smile05.mtn",
-        "fade_in": 6000,
-        "fade_out": 500,
-        "interruptable": true
-      },
-      {
-        "file": "mtn/surprised01.mtn",
-        "fade_in": 6000,
-        "fade_out": 500,
-        "interruptable": true
-      },
-      {
-        "file": "mtn/thinking01.mtn",
-        "fade_in": 6000,
-        "fade_out": 500,
-        "interruptable": true
-      },
-      {
         "file": "mtn/thinking02.mtn",
         "fade_in": 6000,
         "fade_out": 500,
