@@ -38,25 +38,25 @@
     "idle": [
       {
         "file": "mtn/ando01.mtn",
-        "fade_in": 600,
+        "fade_in": 6000,
         "fade_out": 500,
         "interruptable": true
       },
       {
         "file": "mtn/smile04.mtn",
-        "fade_in": 600,
+        "fade_in": 6000,
         "fade_out": 500,
         "interruptable": true
       },
       {
         "file": "mtn/thinking02.mtn",
-        "fade_in": 600,
+        "fade_in": 6000,
         "fade_out": 500,
         "interruptable": true
       },
       {
         "file": "mtn/wink01.mtn",
-        "fade_in": 600,
+        "fade_in": 6000,
         "fade_out": 500,
         "interruptable": true
       }
